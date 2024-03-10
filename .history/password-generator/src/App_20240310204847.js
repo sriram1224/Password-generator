@@ -1,11 +1,11 @@
-import PasswordGenerator from './Components/content.js';
+import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-       <PasswordGenerator />
-      
+      d<div>
+      </div>
     </div>
   );
 }

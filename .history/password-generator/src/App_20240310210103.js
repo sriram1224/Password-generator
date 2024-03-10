@@ -1,10 +1,10 @@
-import PasswordGenerator from './Components/content.js';
+import content from './Components/content';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-       <PasswordGenerator />
+        <content />
       
     </div>
   );
